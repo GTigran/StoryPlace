@@ -20,7 +20,6 @@ namespace StoryPlace.DataLayer.Core.Repositories
         
         #region Impl
 
-
         /// <summary>
         /// Gets user entities by user 
         /// </summary>

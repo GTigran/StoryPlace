@@ -37,7 +37,7 @@ namespace StoryPlace.Web.Controllers
         // POST: /Account/LogOff
         [HttpPost]
         [ValidateAntiForgeryToken]
-        protected ActionResult LogOff()
+        public ActionResult LogOff()
         {
             AuthenticationManager.SignOut();
             return RedirectToAction("Index", "Home");

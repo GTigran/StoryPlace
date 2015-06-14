@@ -4,3 +4,11 @@ C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.WebLib\obj\Debug\StoryPla
 C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.WebLib\obj\Debug\StoryPlace.WebLib.pdb
 C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.WebLib\bin\Debug\System.Web.Mvc.dll
 C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.WebLib\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.WebLib\obj\Debug\StoryPlace.WebLib.csprojResolveAssemblyReference.cache
+E:\GithBash\StoryPlace\StoryPlace.WebLib\bin\Debug\StoryPlace.WebLib.dll
+E:\GithBash\StoryPlace\StoryPlace.WebLib\bin\Debug\StoryPlace.WebLib.pdb
+E:\GithBash\StoryPlace\StoryPlace.WebLib\bin\Debug\System.Web.Mvc.dll
+E:\GithBash\StoryPlace\StoryPlace.WebLib\bin\Debug\System.Web.Mvc.xml
+E:\GithBash\StoryPlace\StoryPlace.WebLib\obj\Debug\StoryPlace.WebLib.csprojResolveAssemblyReference.cache
+E:\GithBash\StoryPlace\StoryPlace.WebLib\obj\Debug\StoryPlace.WebLib.dll
+E:\GithBash\StoryPlace\StoryPlace.WebLib\obj\Debug\StoryPlace.WebLib.pdb

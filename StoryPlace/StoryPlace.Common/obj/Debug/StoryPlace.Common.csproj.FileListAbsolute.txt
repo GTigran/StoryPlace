@@ -2,3 +2,9 @@ C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.Common\bin\Debug\StoryPla
 C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.Common\bin\Debug\StoryPlace.Common.pdb
 C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.Common\obj\Debug\StoryPlace.Common.dll
 C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.Common\obj\Debug\StoryPlace.Common.pdb
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.Common\obj\Debug\StoryPlace.Common.csprojResolveAssemblyReference.cache
+E:\GithBash\StoryPlace\StoryPlace.Common\bin\Debug\StoryPlace.Common.dll
+E:\GithBash\StoryPlace\StoryPlace.Common\bin\Debug\StoryPlace.Common.pdb
+E:\GithBash\StoryPlace\StoryPlace.Common\obj\Debug\StoryPlace.Common.csprojResolveAssemblyReference.cache
+E:\GithBash\StoryPlace\StoryPlace.Common\obj\Debug\StoryPlace.Common.dll
+E:\GithBash\StoryPlace\StoryPlace.Common\obj\Debug\StoryPlace.Common.pdb

@@ -7,6 +7,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using StoryPlace.DataLayer.BusinessObjects.Entities;
+using StoryPlace.DataLayer.Core.Interfaces;
 
 namespace StoryPlace.DataLayer.Core.Repositories
 {
@@ -15,17 +16,15 @@ namespace StoryPlace.DataLayer.Core.Repositories
     /// Base Repository
     /// Encapsulates all common  functionality for all repositories.
     /// </summary>
-    public abstract class RepositoryBase<TContext,TEntity>
-            where TContext : DbContext
-            where TEntity  : class, IDbEntity
+    public abstract class RepositoryBase<TContext, TEntity> : IBaseRepository<TContext,TEntity> where TContext : DbContext where TEntity : class, IDbEntity
     {
 
 
         #region EF
 
-        protected TContext DbContext { get; set; }
+        public TContext DbContext { get; set; }
 
-        protected DbSet<TEntity> Set ;
+        public DbSet<TEntity> Set {get;set;}
 
         #endregion EF
 

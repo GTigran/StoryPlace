@@ -13,6 +13,18 @@ namespace StoryPlace.Web.Controllers
     [Authorize]
     public class StoryController:BaseController
     {
+        public StoryController()
+        {
+            
+        }
+
+        public StoryController(UnitOfWork unitOfWork)
+            : base(unitOfWork)
+        {
+            
+        }
+
+
         [HttpGet]
         public ActionResult Index()
         {

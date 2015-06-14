@@ -1,4 +1,5 @@
 ﻿using System.Data.Entity;
+using System.Data.Entity.ModelConfiguration.Conventions;
 using StoryPlace.DataLayer.Base;
 using StoryPlace.DataLayer.BusinessObjects.Entities;
 
@@ -11,7 +12,7 @@ namespace StoryPlace.DataLayer.Core.DBContexts
 
        protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-
+            
             #region Many To Many Relationship Definition for Group->Stories
             //mapping for story groups
             modelBuilder.Entity<Story>().HasMany(s => s.Groups)

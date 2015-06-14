@@ -11,3 +11,17 @@ C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects
 C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\obj\Debug\StoryPlace.DataLayer.BusinessObjects.dll
 C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\obj\Debug\StoryPlace.DataLayer.BusinessObjects.pdb
+E:\GithBash\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\StoryPlace.DataLayer.BusinessObjects.dll.config
+E:\GithBash\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\StoryPlace.DataLayer.BusinessObjects.dll
+E:\GithBash\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\StoryPlace.DataLayer.BusinessObjects.pdb
+E:\GithBash\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\EntityFramework.dll
+E:\GithBash\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\EntityFramework.SqlServer.dll
+E:\GithBash\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\GithBash\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GithBash\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\EntityFramework.xml
+E:\GithBash\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\EntityFramework.SqlServer.xml
+E:\GithBash\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\GithBash\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GithBash\StoryPlace\StoryPlace.DataLayer.BusinessObjects\obj\Debug\StoryPlace.DataLayer.BusinessObjects.csprojResolveAssemblyReference.cache
+E:\GithBash\StoryPlace\StoryPlace.DataLayer.BusinessObjects\obj\Debug\StoryPlace.DataLayer.BusinessObjects.dll
+E:\GithBash\StoryPlace\StoryPlace.DataLayer.BusinessObjects\obj\Debug\StoryPlace.DataLayer.BusinessObjects.pdb

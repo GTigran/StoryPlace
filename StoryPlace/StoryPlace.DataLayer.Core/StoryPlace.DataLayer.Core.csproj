@@ -59,6 +59,7 @@
   <ItemGroup>
     <Compile Include="DBContexts\UserDbcontext.cs" />
     <Compile Include="DBContexts\CombinedDbContext.cs" />
+    <Compile Include="Interfaces\IBaseRepository.cs" />
     <Compile Include="Interfaces\IStoryRepository.cs" />
     <Compile Include="Interfaces\IGroupRepository.cs" />
     <Compile Include="Migrations\201506140736578_InitialCreate.cs" />
@@ -78,7 +79,6 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\StoryPlace.DataLayer.Base\StoryPlace.DataLayer.Base.csproj">
       <Project>{E16FCBF8-A255-47B9-A57C-A5E14E1564B6}</Project>

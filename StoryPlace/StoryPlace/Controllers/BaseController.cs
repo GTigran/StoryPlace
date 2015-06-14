@@ -1,5 +1,6 @@
 ﻿using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
+using StoryPlace.DataLayer.Base;
 using StoryPlace.DataLayer.Core.Tools;
 
 namespace StoryPlace.Web.Controllers
@@ -7,7 +8,7 @@ namespace StoryPlace.Web.Controllers
     public class BaseController : Controller
     {
         #region Unit of Work
-        protected UnitOfWork UnitOfWork = new UnitOfWork();
+        protected UnitOfWork UnitOfWork;
         #endregion
 
         #region UserInfo
@@ -46,6 +47,15 @@ namespace StoryPlace.Web.Controllers
 
         #endregion
 
+
+        public BaseController()
+        {
+            UnitOfWork = new UnitOfWork();
+        }
+        public BaseController(UnitOfWork unitOfWork )
+        {
+            UnitOfWork = unitOfWork;
+        }
 
         protected override void OnActionExecuting(ActionExecutingContext filterContext)
         {

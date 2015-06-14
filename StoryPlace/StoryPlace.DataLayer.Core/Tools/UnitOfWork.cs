@@ -10,6 +10,7 @@ using StoryPlace.DataLayer.Base;
 using StoryPlace.DataLayer.BusinessObjects.Entities;
 using StoryPlace.DataLayer.BusinessObjects.Entities.User;
 using StoryPlace.DataLayer.Core.DBContexts;
+using StoryPlace.DataLayer.Core.Interfaces;
 using StoryPlace.DataLayer.Core.Repositories;
 
 namespace StoryPlace.DataLayer.Core.Tools
@@ -23,13 +24,13 @@ namespace StoryPlace.DataLayer.Core.Tools
 
         #region Repositories
 
-        private GroupRepository _groupRepository;
-        private  StoryRepository _storyRepository;
+        private IGroupRepository _groupRepository;
+        private  IStoryRepository _storyRepository;
 
         /// <summary>
         /// Repository for quering items related to groups.
         /// </summary>
-        public GroupRepository GroupRepository
+        public IGroupRepository GroupRepository
         {
             get
             {
@@ -47,7 +48,7 @@ namespace StoryPlace.DataLayer.Core.Tools
         /// <summary>
         /// Repository for quering items related to stories.
         /// </summary>
-        public StoryRepository StoryRepository
+        public IStoryRepository StoryRepository
         {
             get
             {
@@ -97,6 +98,13 @@ namespace StoryPlace.DataLayer.Core.Tools
         {
             _storyPlacecontext = new CombinedDbContext();
         }
+
+
+        public UnitOfWork(IStoryRepository storyRepo)
+        {
+            _storyRepository = storyRepo;
+
+        } 
 
         #endregion ctor
 
