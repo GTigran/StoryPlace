@@ -1,0 +1,16 @@
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\bin\Debug\StoryPlace.DataLayer.Base.dll.config
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\bin\Debug\StoryPlace.DataLayer.Base.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\bin\Debug\StoryPlace.DataLayer.Base.pdb
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\bin\Debug\EntityFramework.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\bin\Debug\EntityFramework.xml
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\obj\Debug\StoryPlace.DataLayer.Base.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\obj\Debug\StoryPlace.DataLayer.Base.pdb
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\obj\Debug\StoryPlace.DataLayer.Base.csprojResolveAssemblyReference.cache
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\bin\Debug\StoryPlace.DataLayer.BusinessObjects.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\bin\Debug\StoryPlace.DataLayer.BusinessObjects.pdb
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.Base\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

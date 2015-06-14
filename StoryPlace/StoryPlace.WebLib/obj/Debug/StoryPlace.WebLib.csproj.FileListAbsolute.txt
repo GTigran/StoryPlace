@@ -1,0 +1,6 @@
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.WebLib\bin\Debug\StoryPlace.WebLib.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.WebLib\bin\Debug\StoryPlace.WebLib.pdb
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.WebLib\obj\Debug\StoryPlace.WebLib.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.WebLib\obj\Debug\StoryPlace.WebLib.pdb
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.WebLib\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.WebLib\bin\Debug\System.Web.Mvc.xml

@@ -1,0 +1,13 @@
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\StoryPlace.DataLayer.BusinessObjects.dll.config
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\StoryPlace.DataLayer.BusinessObjects.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\StoryPlace.DataLayer.BusinessObjects.pdb
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\EntityFramework.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\EntityFramework.xml
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\obj\Debug\StoryPlace.DataLayer.BusinessObjects.dll
+C:\Users\Tigran\Dropbox\Projects\StoryPlace\StoryPlace.DataLayer.BusinessObjects\obj\Debug\StoryPlace.DataLayer.BusinessObjects.pdb

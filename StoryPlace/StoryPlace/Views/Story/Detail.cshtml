@@ -1,0 +1,15 @@
+﻿@model StoryPlace.DataLayer.BusinessObjects.Entities.Story
+@{
+    ViewBag.Title = "View1";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Story Details</h2>
+
+
+<div class="raw">
+    <p class="lead">@Model.Title</p>
+    <p>@Model.Description</p>
+    <p>@Model.Content</p>
+    <p>@Model.CreatedDate</p>
+</div>

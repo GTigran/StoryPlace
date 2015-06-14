@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    @if(Request.IsAuthenticated)
+    {
+        <p class="lead">
+            Navigate to @Html.ActionLink("Story Place","Index","Story") to create and share stories
+        </p>
+    }
+    else {
+         <p class="lead">
+            Please login or register in order to define stories
+        </p>
+    }
+</div>
+

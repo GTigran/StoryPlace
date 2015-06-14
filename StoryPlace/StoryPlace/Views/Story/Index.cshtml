@@ -1,0 +1,23 @@
+﻿@model StoryPlace.Web.ViewModels.Story.StoryListViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>My Stories</h2>
+<div class="row">
+    @foreach (var story in Model.Stories) {
+        @Html.Partial("StoryThumbnail", story)
+    }
+</div>
+
+
+@Html.ActionLink("Create New Story", "Edit", "Story");
+
+
+
+
+
+
+
+
